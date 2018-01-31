@@ -1,4 +1,4 @@
 # JenkinsTraining
 JenkinsFullDayTraining
 
-testing hook3
+testing commit message trigger
