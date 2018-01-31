@@ -1,4 +1,4 @@
 # JenkinsTraining
 JenkinsFullDayTraining
 
-testing commit message trigger
+testing push option
