@@ -1,4 +1,4 @@
 # JenkinsTraining
 JenkinsFullDayTraining
 
-testing push option by creating a push file in hooks
+testing push option alone after generation token and secret
