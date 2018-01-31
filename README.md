@@ -1,4 +1,4 @@
 # JenkinsTraining
 JenkinsFullDayTraining
 
-testing push option again
+testing push option by creating a push file in hooks
